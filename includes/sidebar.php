@@ -1,0 +1,1 @@
+<aside>Hi, I'm sidebar.</aside>

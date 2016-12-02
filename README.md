@@ -1,1 +1,1 @@
-# templateExample
+# Templating with PHP
